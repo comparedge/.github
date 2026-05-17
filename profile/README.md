@@ -1,49 +1,58 @@
 # ComparEdge
 
-**Independent SaaS & AI comparison platform** — real data, no affiliate bias.
+**Independent SaaS, AI & security comparison platform** — verified pricing, real ratings, no affiliate bias.
 
-🔗 [comparedge.com](https://comparedge.com) · 📖 [Blog](https://blog.comparedge.com) · 🎯 [Playbooks](https://blog.comparedge.com/playbooks/)
+🔗 [comparedge.com](https://comparedge.com) · 🐦 [@ComparEdge](https://x.com/ComparEdge) · 💼 [LinkedIn](https://www.linkedin.com/company/comparedge)
 
 ## What We Do
 
-We help teams find the right software with unbiased, data-driven comparisons across **331+ products** in **28 categories**.
+We help teams find the right software with unbiased, data-driven comparisons across **508+ products** in **45 categories** — from AI tools and SaaS to cloud security and crypto.
 
 ### 🔍 Compare Tools
-Side-by-side comparisons with interactive radar charts, feature matrix, and pricing intelligence.
+Side-by-side comparisons with feature matrix, pricing intelligence, and verified ratings from G2 and Capterra.
 → [comparedge.com/compare](https://comparedge.com/compare)
 
 ### 💲 Real Pricing
-Actual plan prices — including token-level LLM pricing for AI tools.
+Verified plan prices — including free plan flags, price history, and "Contact for pricing" red flags.
 → [comparedge.com/pricing](https://comparedge.com/pricing)
 
-### 📖 Expert Playbooks
-Deep-dive guides (2,500+ words each) with real workflows, hidden features, and honest opinions. Not AI-generated fluff.
-→ [blog.comparedge.com/playbooks](https://blog.comparedge.com/playbooks/)
+### 🔄 Alternatives
+Find the best alternatives to any tool with head-to-head pricing and feature comparisons.
+→ [comparedge.com/alternatives](https://comparedge.com/alternatives)
 
-| Tool | Category | Guide |
-|------|----------|-------|
-| ChatGPT | AI & LLM | [Prompts, Custom GPTs, API →](https://blog.comparedge.com/playbooks/chatgpt.html) |
-| Claude | AI & LLM | [Extended Thinking, 200K Context →](https://blog.comparedge.com/playbooks/claude.html) |
-| Cursor | AI Coding | [AI Editor Mastery →](https://blog.comparedge.com/playbooks/cursor.html) |
-| Midjourney | AI Image | [Prompts & Styles →](https://blog.comparedge.com/playbooks/midjourney.html) |
-| Figma | Design | [Auto Layout, Design Systems →](https://blog.comparedge.com/playbooks/figma.html) |
-| Notion | Productivity | [Databases, Automations →](https://blog.comparedge.com/playbooks/notion.html) |
-| AWS | Cloud | [EC2, Lambda, Cost Optimization →](https://blog.comparedge.com/playbooks/aws.html) |
-| Salesforce | CRM | [Flows, Einstein AI, Setup →](https://blog.comparedge.com/playbooks/salesforce.html) |
-| HubSpot | CRM | [Free CRM to Enterprise →](https://blog.comparedge.com/playbooks/hubspot.html) |
+### 🔒 Security Hub
+AI-powered security stack analysis covering IAM, CNAPP, compliance, and endpoint tools.
+→ [comparedge.com/security](https://comparedge.com/security)
 
-[Browse all 15 playbooks →](https://blog.comparedge.com/playbooks/)
+### 🧩 Chrome Extension
+Instant pricing overlay for any SaaS tool you browse — compare without leaving the page.
+→ [comparedge.com/extension](https://comparedge.com/extension)
 
-### 📊 Popular Articles
-- [ChatGPT vs Claude — Complete Comparison](https://blog.comparedge.com/chatgpt-vs-claude.html)
-- [Cheapest LLM APIs 2026: 14 Providers Ranked](https://blog.comparedge.com/cheapest-llm-api-pricing.html)
-- [Best Free AI Tools for Startups](https://blog.comparedge.com/free-ai-tools-startups.html)
-- [The Real Cost of AI in 2026](https://blog.comparedge.com/real-cost-of-ai.html)
-- [GitHub Copilot vs Cursor](https://blog.comparedge.com/cursor-vs-github-copilot.html)
+### 🛠 Free Tools Suite
+LLM cost calculator, stack builder, lock-in score analyzer, and security stack auditor.
+→ [comparedge.com/suite](https://comparedge.com/suite)
 
-### Categories
-AI/LLM · AI Coding · AI Writing · AI Image · AI Video · AI Voice · CRM · Project Management · Email Marketing · Cloud Hosting · Design Tools · Video Conferencing · Accounting · Website Builders · and more
+### 📖 Blog & Playbooks
+Data-driven guides and expert comparisons for teams evaluating software.
+→ [comparedge.com/blog](https://comparedge.com/blog) · [comparedge.com/playbooks](https://comparedge.com/playbooks)
+
+## Categories (45)
+
+**AI** — LLMs · AI Coding · AI Writing · AI Image · AI Video · AI Voice · AI Agents · AI Productivity · AI Assistants · AI Meeting · AI Security
+
+**Business** — CRM · Project Management · Email Marketing · Design Tools · Website Builders · Cloud Hosting · Accounting · Password Managers · VPN · Video Conferencing · Analytics · HR Tools · Payments · SEO Tools · Customer Support
+
+**Security & Infra** — IAM · Cloud Security · Endpoint Security · Compliance · Vector Databases · FinOps · Databases · ERP · Data Observability
+
+**Crypto** — Exchanges · Wallets · Trading Bots · Analytics · DEX · DeFi Tools
+
+## Open Data
+
+All pricing and ratings data is openly licensed under CC BY 4.0.
+
+📦 [awesome-saas-comparison-data](https://github.com/comparedge/awesome-saas-comparison-data) — 508+ products, weekly updates
+🌐 [Data Lab](https://comparedge-data.github.io) — API docs and dataset explorer
 
 ---
 
-[🌐 comparedge.com](https://comparedge.com) · [📖 Blog](https://blog.comparedge.com) · [🎯 Playbooks](https://blog.comparedge.com/playbooks/)
+[🌐 comparedge.com](https://comparedge.com) · [📖 Blog](https://comparedge.com/blog) · [🐦 X/Twitter](https://x.com/ComparEdge)

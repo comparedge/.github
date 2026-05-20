@@ -1,58 +1,200 @@
-# ComparEdge
+<div align="center">
 
-**Independent SaaS, AI & security comparison platform** — verified pricing, real ratings, no affiliate bias.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Independent+Software+Intelligence;508%2B+Tools.+Real+Pricing.+No+Bias." alt="ComparEdge" />
 
-🔗 [comparedge.com](https://comparedge.com) · 🐦 [@ComparEdge](https://x.com/ComparEdge) · 💼 [LinkedIn](https://www.linkedin.com/company/comparedge)
+<br/>
 
-## What We Do
+[![Website](https://img.shields.io/badge/comparedge.com-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://comparedge.com)
+[![Products](https://img.shields.io/badge/508%2B_Products-10b981?style=for-the-badge&logo=databricks&logoColor=white)](https://comparedge.com/tools)
+[![Categories](https://img.shields.io/badge/44_Categories-3b82f6?style=for-the-badge&logo=buffer&logoColor=white)](https://comparedge.com/best)
+[![Open Data](https://img.shields.io/badge/Open_Data-CC_BY_4.0-f59e0b?style=for-the-badge&logo=creativecommons&logoColor=white)](https://github.com/comparedge/awesome-saas-comparison-data)
+[![MCP Server](https://img.shields.io/badge/MCP_Server-a855f7?style=for-the-badge&logo=anthropic&logoColor=white)](https://smithery.ai/server/@comparedge/mcp-server)
 
-We help teams find the right software with unbiased, data-driven comparisons across **508+ products** in **45 categories** — from AI tools and SaaS to cloud security and crypto.
-
-### 🔍 Compare Tools
-Side-by-side comparisons with feature matrix, pricing intelligence, and verified ratings from G2 and Capterra.
-→ [comparedge.com/compare](https://comparedge.com/compare)
-
-### 💲 Real Pricing
-Verified plan prices — including free plan flags, price history, and "Contact for pricing" red flags.
-→ [comparedge.com/pricing](https://comparedge.com/pricing)
-
-### 🔄 Alternatives
-Find the best alternatives to any tool with head-to-head pricing and feature comparisons.
-→ [comparedge.com/alternatives](https://comparedge.com/alternatives)
-
-### 🔒 Security Hub
-AI-powered security stack analysis covering IAM, CNAPP, compliance, and endpoint tools.
-→ [comparedge.com/security](https://comparedge.com/security)
-
-### 🧩 Chrome Extension
-Instant pricing overlay for any SaaS tool you browse — compare without leaving the page.
-→ [comparedge.com/extension](https://comparedge.com/extension)
-
-### 🛠 Free Tools Suite
-LLM cost calculator, stack builder, lock-in score analyzer, and security stack auditor.
-→ [comparedge.com/suite](https://comparedge.com/suite)
-
-### 📖 Blog & Playbooks
-Data-driven guides and expert comparisons for teams evaluating software.
-→ [comparedge.com/blog](https://comparedge.com/blog) · [comparedge.com/playbooks](https://comparedge.com/playbooks)
-
-## Categories (45)
-
-**AI** — LLMs · AI Coding · AI Writing · AI Image · AI Video · AI Voice · AI Agents · AI Productivity · AI Assistants · AI Meeting · AI Security
-
-**Business** — CRM · Project Management · Email Marketing · Design Tools · Website Builders · Cloud Hosting · Accounting · Password Managers · VPN · Video Conferencing · Analytics · HR Tools · Payments · SEO Tools · Customer Support
-
-**Security & Infra** — IAM · Cloud Security · Endpoint Security · Compliance · Vector Databases · FinOps · Databases · ERP · Data Observability
-
-**Crypto** — Exchanges · Wallets · Trading Bots · Analytics · DEX · DeFi Tools
-
-## Open Data
-
-All pricing and ratings data is openly licensed under CC BY 4.0.
-
-📦 [awesome-saas-comparison-data](https://github.com/comparedge/awesome-saas-comparison-data) — 508+ products, weekly updates
-🌐 [Data Lab](https://comparedge-data.github.io) — API docs and dataset explorer
+</div>
 
 ---
 
-[🌐 comparedge.com](https://comparedge.com) · [📖 Blog](https://comparedge.com/blog) · [🐦 X/Twitter](https://x.com/ComparEdge)
+## `$ whoami`
+
+```json
+{
+  "name": "ComparEdge",
+  "type": "Independent Software Intelligence Platform",
+  "founded": "2026",
+  "mission": "Verified pricing, real ratings — no vendor payments, no affiliate bias",
+  "coverage": {
+    "products": 508,
+    "categories": 44,
+    "pricingRecords": "1400+",
+    "reviewSources": ["G2", "Capterra", "TrustRadius", "PeerSpot"]
+  },
+  "dataPolicy": "CC BY 4.0 — open and free to use",
+  "methodology": "Human-verified + AI-assisted, updated weekly",
+  "contact": "data@comparedge.com"
+}
+```
+
+---
+
+## ⚡ Intelligence Suite
+
+> Four professional-grade tools — free with account
+
+<table>
+<tr>
+<td width="50%">
+
+**🧮 LLM API Pricing Calculator**
+Compare API costs across 36 models from OpenAI, Anthropic, Google, DeepSeek, Groq and more. Export to PDF/CSV.
+
+[![Open](https://img.shields.io/badge/Try_it-3b82f6?style=flat-square&logo=lightning&logoColor=white)](https://comparedge.com/llm-calculator)
+
+</td>
+<td width="50%">
+
+**🧱 Tech Stack Builder**
+Build your SaaS stack from 44 categories, analyze total monthly cost, and score vendor lock-in risk.
+
+[![Open](https://img.shields.io/badge/Try_it-10b981?style=flat-square&logo=layers&logoColor=white)](https://comparedge.com/tech-stack-builder)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔒 Vendor Lock-In Checker**
+5-dimension Freedom Score: data portability, API access, migration path, export formats, contract terms.
+
+[![Open](https://img.shields.io/badge/Try_it-f59e0b?style=flat-square&logo=shield&logoColor=white)](https://comparedge.com/vendor-lock-in-checker)
+
+</td>
+<td width="50%">
+
+**🛡️ Cyber Risk Calculator**
+Map security coverage gaps across 6 vectors, estimate breach exposure using IBM cost model.
+
+[![Open](https://img.shields.io/badge/Try_it-ef4444?style=flat-square&logo=shield-check&logoColor=white)](https://comparedge.com/cyber-risk-calculator)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗂️ Platform Coverage
+
+```
+AI Tools          ████████████████████ LLMs · Coding · Writing · Image · Video · Voice · Agents
+Business SaaS     ███████████████████  CRM · PM · Email · Design · Analytics · SEO · HR · Payments
+Security & Infra  █████████████        IAM · Cloud Security · Endpoint · Compliance · FinOps
+Databases & Cloud ██████████           Vector DB · OLAP · Cloud Hosting · Data Observability
+Crypto & Web3     ████████             Exchanges · Wallets · DEX · DeFi · Trading Bots
+```
+
+| Category | Products | Avg G2 Rating | With Pricing |
+|----------|----------|---------------|--------------|
+| LLMs & Foundation Models | 47 | ⭐ 4.6 | 43 |
+| AI Coding Tools | 24 | ⭐ 4.5 | 22 |
+| CRM | 31 | ⭐ 4.4 | 28 |
+| Cloud Hosting | 19 | ⭐ 4.5 | 18 |
+| IAM & Security | 22 | ⭐ 4.4 | 20 |
+| ...41 more | — | — | — |
+
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
+---
+
+## 🤖 MCP Server — AI-Native Data Access
+
+Connect any MCP-compatible AI agent directly to ComparEdge data:
+
+```bash
+# Install via Smithery
+npx @smithery/cli install @comparedge/mcp-server --client claude
+```
+
+```python
+# Available tools
+search_products(query, category, limit)   # Search 508+ products
+get_pricing(slug)                          # Real pricing plans
+get_alternatives(slug, limit)             # Top alternatives
+compare_products(slug_a, slug_b)          # Head-to-head comparison
+get_category(category, sort_by)           # Full category data
+```
+
+[![Smithery](https://img.shields.io/badge/Available_on_Smithery-a855f7?style=for-the-badge&logo=anthropic&logoColor=white)](https://smithery.ai/server/@comparedge/mcp-server)
+[![npm](https://img.shields.io/badge/npm_Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@comparedge/mcp-server)
+
+---
+
+## 📦 Open Repositories
+
+| Repo | Description | Stars |
+|------|-------------|-------|
+| [awesome-saas-comparison-data](https://github.com/comparedge/awesome-saas-comparison-data) | Open dataset: 508+ tools, pricing, ratings, features (CC BY 4.0) | [![Stars](https://img.shields.io/github/stars/comparedge/awesome-saas-comparison-data?style=flat-square&color=f59e0b)](https://github.com/comparedge/awesome-saas-comparison-data) |
+| [mcp-server-comparedge](https://github.com/comparedge/mcp-server-comparedge) | MCP server for Claude/AI agents — real-time SaaS pricing & comparisons | [![Stars](https://img.shields.io/github/stars/comparedge/mcp-server-comparedge?style=flat-square&color=a855f7)](https://github.com/comparedge/mcp-server-comparedge) |
+| [saas-price-check](https://github.com/comparedge/saas-price-check) | GitHub Action: monitor SaaS price changes for your tech stack | [![Stars](https://img.shields.io/github/stars/comparedge/saas-price-check?style=flat-square&color=3b82f6)](https://github.com/comparedge/saas-price-check) |
+| [langchain-comparedge](https://github.com/comparedge/langchain-comparedge) | LangChain data connector for ComparEdge pricing intelligence | [![Stars](https://img.shields.io/github/stars/comparedge/langchain-comparedge?style=flat-square&color=10b981)](https://github.com/comparedge/langchain-comparedge) |
+| [llamaindex-comparedge](https://github.com/comparedge/llamaindex-comparedge) | LlamaIndex connector — query product data in RAG pipelines | [![Stars](https://img.shields.io/github/stars/comparedge/llamaindex-comparedge?style=flat-square&color=10b981)](https://github.com/comparedge/llamaindex-comparedge) |
+| [terraform-comparedge-saas](https://github.com/comparedge/terraform-comparedge-saas) | Terraform provider for SaaS pricing data | [![Stars](https://img.shields.io/github/stars/comparedge/terraform-comparedge-saas?style=flat-square&color=ef4444)](https://github.com/comparedge/terraform-comparedge-saas) |
+
+---
+
+## 📊 Data Methodology
+
+```
+Data Collection   ──→  Public pricing pages · Vendor docs · G2/Capterra APIs
+                        Google CSE (review URL scraping) · Weekly scheduled crawls
+
+Verification      ──→  Human review threshold: >$100/mo products
+                        Confidence score: 0.0–1.0 per product
+                        verificationStatus: verified | updated | estimated
+
+Quality Signals   ──→  revisionId (CE-CATG-YYYYWww-XXXXXX)
+                        lastManualVerifiedAt · verifiedAt · lastUpdated
+                        1,400+ review source URLs tracked
+
+Ratings Policy    ──→  G2 > Capterra (strict priority)
+                        Only shown when source URL exists
+                        No star ratings without review link
+```
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/comparedge.com-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://comparedge.com)
+[![Blog](https://img.shields.io/badge/Blog-ef4444?style=for-the-badge&logo=hashnode&logoColor=white)](https://comparedge.com/blog)
+[![Open Data](https://img.shields.io/badge/Open_Data-f59e0b?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/comparedge/awesome-saas-comparison-data)
+[![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://comparedge.com/extension)
+[![Email](https://img.shields.io/badge/data@comparedge.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:data@comparedge.com)
+
+</div>
+
+<div align="center">
+
+---
+
+*Independent. No sponsored rankings. No affiliate revenue. Data-first.*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=comparedge.comparedge&color=3b82f6)
+
+</div>

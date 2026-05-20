@@ -28,7 +28,7 @@
     "categories": 44,
     "reviewSources": ["G2", "Capterra", "TrustRadius", "PeerSpot"]
   },
-  "dataPolicy": "CC BY 4.0 — open and free to use",
+  "dataPolicy": "CC BY 4.0, open and free to use",
   "methodology": "Human-verified + AI-assisted, updated weekly",
   "contact": "data@comparedge.com"
 }
@@ -168,7 +168,7 @@ Sources       Public pricing pages + vendor documentation + G2/Capterra
 Verification  Human-reviewed records with verification timestamps
 Ratings       G2 > Capterra (strict priority). Only shown when source URL exists.
 Updates       Weekly automated crawl + manual review cycle
-License       CC BY 4.0 — free to use with attribution
+License       CC BY 4.0, free to use with attribution
 ```
 
 ---

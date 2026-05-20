@@ -9,6 +9,7 @@
 [![Categories](https://img.shields.io/badge/44_Categories-3b82f6?style=for-the-badge&logo=buffer&logoColor=white)](https://comparedge.com/best)
 [![Open Data](https://img.shields.io/badge/Open_Data-CC_BY_4.0-f59e0b?style=for-the-badge&logo=creativecommons&logoColor=white)](https://github.com/comparedge/awesome-saas-comparison-data)
 [![MCP Server](https://img.shields.io/badge/MCP_Server-a855f7?style=for-the-badge&logo=anthropic&logoColor=white)](https://smithery.ai/server/@comparedge/mcp-server)
+[![mcp-server-comparedge MCP server](https://glama.ai/mcp/servers/comparedge/mcp-server-comparedge/badges/score.svg)](https://glama.ai/mcp/servers/comparedge/mcp-server-comparedge)
 
 </div>
 
@@ -140,6 +141,7 @@ get_category(category, sort_by)           # Full category data
 
 [![Smithery](https://img.shields.io/badge/Available_on_Smithery-a855f7?style=for-the-badge&logo=anthropic&logoColor=white)](https://smithery.ai/server/@comparedge/mcp-server)
 [![npm](https://img.shields.io/badge/npm_Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@comparedge/mcp-server)
+[![mcp-server-comparedge MCP server](https://glama.ai/mcp/servers/comparedge/mcp-server-comparedge/badges/score.svg)](https://glama.ai/mcp/servers/comparedge/mcp-server-comparedge)
 
 ---
 
@@ -147,7 +149,7 @@ get_category(category, sort_by)           # Full category data
 
 | Repo | Description | Stars |
 |------|-------------|-------|
-| [awesome-saas-comparison-data](https://github.com/comparedge/awesome-saas-comparison-data) | Open dataset: 508+ tools, pricing, ratings, features (CC BY 4.0) | [![Stars](https://img.shields.io/github/stars/comparedge/awesome-saas-comparison-data?style=flat-square&color=f59e0b)](https://github.com/comparedge/awesome-saas-comparison-data) |
+| [awesome-saas-comparison-data](https://github.com/comparedge/awesome-saas-comparison-data) | Open dataset: 508 tools, 44 categories, verified pricing, real ratings (CC BY 4.0) — [Explorer](https://comparedge.com/open-data) | [![Stars](https://img.shields.io/github/stars/comparedge/awesome-saas-comparison-data?style=flat-square&color=f59e0b)](https://github.com/comparedge/awesome-saas-comparison-data) |
 | [mcp-server-comparedge](https://github.com/comparedge/mcp-server-comparedge) | MCP server for Claude/AI agents — real-time SaaS pricing & comparisons | [![Stars](https://img.shields.io/github/stars/comparedge/mcp-server-comparedge?style=flat-square&color=a855f7)](https://github.com/comparedge/mcp-server-comparedge) |
 | [saas-price-check](https://github.com/comparedge/saas-price-check) | GitHub Action: monitor SaaS price changes for your tech stack | [![Stars](https://img.shields.io/github/stars/comparedge/saas-price-check?style=flat-square&color=3b82f6)](https://github.com/comparedge/saas-price-check) |
 | [langchain-comparedge](https://github.com/comparedge/langchain-comparedge) | LangChain data connector for ComparEdge pricing intelligence | [![Stars](https://img.shields.io/github/stars/comparedge/langchain-comparedge?style=flat-square&color=10b981)](https://github.com/comparedge/langchain-comparedge) |
@@ -183,7 +185,7 @@ Ratings Policy    ──→  G2 > Capterra (strict priority)
 
 [![Website](https://img.shields.io/badge/comparedge.com-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://comparedge.com)
 [![Blog](https://img.shields.io/badge/Blog-ef4444?style=for-the-badge&logo=hashnode&logoColor=white)](https://comparedge.com/blog)
-[![Open Data](https://img.shields.io/badge/Open_Data-f59e0b?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/comparedge/awesome-saas-comparison-data)
+[![Open Data](https://img.shields.io/badge/Open_Data-f59e0b?style=for-the-badge&logo=databricks&logoColor=white)](https://comparedge.com/open-data)
 [![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://comparedge.com/extension)
 [![Email](https://img.shields.io/badge/data@comparedge.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:data@comparedge.com)
 

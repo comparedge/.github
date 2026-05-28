@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Independent+Software+Intelligence;508%2B+Tools.+Real+Pricing.+No+Bias." alt="ComparEdge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Independent+Software+Intelligence;495%2B+Tools.+Real+Pricing.+No+Bias." alt="ComparEdge" />
 
 <br/>
 
 [![Website](https://img.shields.io/badge/comparedge.com-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://comparedge.com)
-[![Products](https://img.shields.io/badge/508_Products-10b981?style=for-the-badge&logo=databricks&logoColor=white)](https://comparedge.com/tools)
+[![Products](https://img.shields.io/badge/495%2B_Products-10b981?style=for-the-badge&logo=databricks&logoColor=white)](https://comparedge.com/tools)
 [![Categories](https://img.shields.io/badge/44_Categories-3b82f6?style=for-the-badge&logo=buffer&logoColor=white)](https://comparedge.com/best)
 [![Open Data](https://img.shields.io/badge/Open_Data-CC_BY_4.0-f59e0b?style=for-the-badge&logo=creativecommons&logoColor=white)](https://comparedge.com/open-data)
 [![MCP Server](https://img.shields.io/badge/MCP_Server-a855f7?style=for-the-badge&logo=anthropic&logoColor=white)](https://smithery.ai/server/@comparedge/mcp-server)
@@ -24,7 +24,7 @@
   "founded": "2026",
   "mission": "Verified pricing, real ratings. No vendor payments. No affiliate bias.",
   "coverage": {
-    "products": 508,
+    "products": "495+",
     "categories": 44,
     "reviewSources": ["G2", "Capterra", "TrustRadius", "PeerSpot"]
   },
@@ -135,7 +135,7 @@ npx @smithery/cli install @comparedge/mcp-server --client claude
 
 ```python
 # Available tools
-search_products(query, category, limit)   # Search 508+ products
+search_products(query, category, limit)   # Search 495+ products
 get_pricing(slug)                          # Real pricing plans
 get_alternatives(slug, limit)             # Top alternatives
 compare_products(slug_a, slug_b)          # Head-to-head comparison
@@ -194,3 +194,4 @@ License       CC BY 4.0, free to use with attribution
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=comparedge.comparedge&color=3b82f6)
 
 </div>
+

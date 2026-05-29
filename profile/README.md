@@ -142,6 +142,7 @@ compare_products(slug_a, slug_b)          # Head-to-head comparison
 get_category(category, sort_by)           # Full category data
 ```
 
+[![GitHub Marketplace](https://img.shields.io/badge/GitHub_Marketplace-ComparEdge-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marketplace/comparedge)
 [![Smithery](https://img.shields.io/badge/Available_on_Smithery-a855f7?style=for-the-badge&logo=anthropic&logoColor=white)](https://smithery.ai/server/@comparedge/mcp-server)
 [![npm](https://img.shields.io/badge/npm_Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@comparedge/mcp-server)
 [![mcp-server-comparedge MCP server](https://glama.ai/mcp/servers/comparedge/mcp-server-comparedge/badges/score.svg)](https://glama.ai/mcp/servers/comparedge/mcp-server-comparedge)

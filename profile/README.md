@@ -85,7 +85,7 @@ Map security coverage gaps across 6 vectors, estimate breach exposure using IBM 
 
 ---
 
-## ![coverage](https://img.shields.io/badge/Platform_Coverage-508_products_/_44_categories-3b82f6?style=flat-square&logo=buffer&logoColor=white)
+## ![coverage](https://img.shields.io/badge/Platform_Coverage-495_products_/_44_categories-3b82f6?style=flat-square&logo=buffer&logoColor=white)
 
 ```
 AI Tools          ████████████████████ LLMs · Coding · Writing · Image · Video · Voice · Agents
@@ -152,7 +152,7 @@ get_category(category, sort_by)           # Full category data
 
 | Repo | Description | Stars |
 |------|-------------|-------|
-| [awesome-saas-comparison-data](https://github.com/comparedge/awesome-saas-comparison-data) | Open dataset: 508 tools, 44 categories, verified pricing, real ratings (CC BY 4.0) | [![Stars](https://img.shields.io/github/stars/comparedge/awesome-saas-comparison-data?style=flat-square&color=f59e0b)](https://github.com/comparedge/awesome-saas-comparison-data) |
+| [awesome-saas-comparison-data](https://github.com/comparedge/awesome-saas-comparison-data) | Open dataset: 495 tools, 44 categories, verified pricing, real ratings (CC BY 4.0) | [![Stars](https://img.shields.io/github/stars/comparedge/awesome-saas-comparison-data?style=flat-square&color=f59e0b)](https://github.com/comparedge/awesome-saas-comparison-data) |
 | [mcp-server-comparedge](https://github.com/comparedge/mcp-server-comparedge) | MCP server for Claude/AI agents: real-time SaaS pricing and comparisons | [![Stars](https://img.shields.io/github/stars/comparedge/mcp-server-comparedge?style=flat-square&color=a855f7)](https://github.com/comparedge/mcp-server-comparedge) |
 | [saas-price-check](https://github.com/comparedge/saas-price-check) | GitHub Action: monitor SaaS price changes for your tech stack | [![Stars](https://img.shields.io/github/stars/comparedge/saas-price-check?style=flat-square&color=3b82f6)](https://github.com/comparedge/saas-price-check) |
 | [langchain-comparedge](https://github.com/comparedge/langchain-comparedge) | LangChain data connector for ComparEdge pricing intelligence | [![Stars](https://img.shields.io/github/stars/comparedge/langchain-comparedge?style=flat-square&color=10b981)](https://github.com/comparedge/langchain-comparedge) |

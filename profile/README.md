@@ -9,6 +9,7 @@
 [![Categories](https://img.shields.io/badge/44_Categories-3b82f6?style=for-the-badge&logo=buffer&logoColor=white)](https://comparedge.com/best)
 [![Open Data](https://img.shields.io/badge/Open_Data-CC_BY_4.0-f59e0b?style=for-the-badge&logo=creativecommons&logoColor=white)](https://comparedge.com/open-data)
 [![MCP Server](https://img.shields.io/badge/MCP_Server-a855f7?style=for-the-badge&logo=anthropic&logoColor=white)](https://smithery.ai/server/@comparedge/mcp-server)
+[![GitHub Marketplace](https://img.shields.io/badge/GitHub_Marketplace-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marketplace/comparedge)
 [![mcp-server-comparedge MCP server](https://glama.ai/mcp/servers/comparedge/mcp-server-comparedge/badges/score.svg)](https://glama.ai/mcp/servers/comparedge/mcp-server-comparedge)
 
 </div>
